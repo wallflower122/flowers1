@@ -1,0 +1,63 @@
+/********************************class*****************************/
+.back{
+  background-color: #f9c74f;
+  height: 100px;
+  position:relative;
+  bottom: 20px;
+
+}
+.second{
+background-color: #f8961e;
+height: 600px;
+position: relative;
+bottom: 20px;
+}
+.sunflowers{
+  height: 600px;
+  position: relative;
+  left: 650px;
+  bottom: 600px;
+  margin: 0;
+}
+.about1{
+   width: 50%;
+   padding: 20px;
+   font-family: 'Zilla Slab', serif;
+   font-size: 20px;
+   font-weight: bold;
+}
+.funfacts1{
+  font-family: 'Zilla Slab', serif;
+  width: 50%
+  font-size: 20px;
+  color: #403308;
+}
+/********************************tag*****************************/
+body{
+  margin: 0;
+}
+h1{
+  color: #a63c06;
+  font-family: 'Zen Tokyo Zoo', cursive;
+  padding-top: 40px;
+  padding-left: 30px;
+  font-size: 60px;
+  margin: 0px;
+}
+hr{
+  border: dotted #c36f09 6px;
+  border-bottom: none;
+  margin: 0;
+  width: 6%;
+  position: relative;
+  left: 300px;
+  bottom: 3px;
+
+}
+ul{
+  font-size: 20px;
+  font-weight: bold;
+}
+h3{
+  padding: 0px 0px 0px 20px;
+}
